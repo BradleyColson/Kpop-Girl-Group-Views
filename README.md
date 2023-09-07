@@ -1,5 +1,5 @@
 # Kpop-Girl-Group-Views
-Views in millions of my favorite female Kpop groups
+I created this project called "Views in millions of my favorite female Kpop groups" so that I could practing creating a table. I typo'd one of their names, but it was good practice to edit it.
 
 
 Kpop views by millions SQL.
